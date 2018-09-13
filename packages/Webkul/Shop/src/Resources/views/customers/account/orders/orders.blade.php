@@ -1,1 +1,0 @@
- <h1>Customer past orders page</h1>
